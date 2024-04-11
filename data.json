@@ -1,5 +1,6 @@
 {
-	"some key": "some value",
-	"data": "very valuable",
-	"new key": "with new value"
+  "some key": "some value",
+  "data": "very valuable",
+  "new key": "with new value",
+  "another key": "and another value"
 }
