@@ -1,4 +1,5 @@
 {
 	"some key": "some value",
-	"data": "very valuable"
+	"data": "very valuable",
+	"new key": "with new value"
 }
