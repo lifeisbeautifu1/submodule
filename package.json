@@ -1,0 +1,12 @@
+{
+	"name": "submodule",
+	"version": "1.0.0",
+	"description": "testing git submodules",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index"
+	},
+	"author": "Potato",
+	"license": "ISC"
+}
